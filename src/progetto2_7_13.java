@@ -12,8 +12,8 @@ public class progetto2_7_13 {
 		double p = tastiera.nextDouble();
 		double h = tastiera.nextDouble();
 		int e = tastiera.nextInt();
-		System.out.printf("Se sei una donna dovrai consumare %4.2f \n", ((655 + (9.6*p) + (1.8*h) - (4.7*(double)e)/230)));
-		System.out.printf("Se sei un uomo dovrai consumare %4.2f", ((68 + (13.8*p) + (5.0*h) - (6.8*(double)e)/230)));
+		System.out.printf("Se sei una donna dovrai consumare %4.2f barrette di cioccolato \n", ((655 + (9.6*p) + (1.8*h) - (4.7*(double)e)/230)));
+		System.out.printf("Se sei un uomo dovrai consumare %4.2f barrette di cioccolato", ((68 + (13.8*p) + (5.0*h) - (6.8*(double)e)/230)));
 		
 	}
 
